@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"dbaeumer.vscode-eslint",
+		"ms-playwright.playwright",
+		"johnbillion.vscode-wordpress-hooks",
+		"bmewburn.vscode-intelephense-client",
+		"esbenp.prettier-vscode",
+		"obliviousharmony.vscode-php-codesniffer",
+		"github.vscode-pull-request-github",
+		"xdebug.php-debug"
+	]
+}
